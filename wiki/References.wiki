@@ -4,4 +4,6 @@
 
 * http://www.sciencedirect.com.www.ezp.biu-montpellier.fr/science/article/pii/S026288561100120X
 
-* http://www.irit.fr/recherches/SAMOVA/pageAnalysis.html 
+* http://www.irit.fr/recherches/SAMOVA/pageAnalysis.html
+
+* http://www.irit.fr/~Philippe.Joly/Teaching/L3SI/ti.html : exemple de tp de traitement et amélioration d'images
