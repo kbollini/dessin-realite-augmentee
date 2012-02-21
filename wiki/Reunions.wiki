@@ -1,15 +1,13 @@
-
+#labels Réunions,rendus,réunion
 = Introduction =
 
 Compte rendus des différentes réunions.
-
-
 
 = Mardi 21 février =
 
 -Discussion avec Geoffrey à propos du démarrage du codage de la librairie sur la semaine de vacances.
 
-= Conclusions =
+== Conclusions ==
 -Choix de coder séparément deux fonctions clés: "Binarisation" et "Localisation", à utiliser dans la fonction "TrackNaifCouleur"
 
 Répartition des tâches:
@@ -28,7 +26,7 @@ D'autres part :
 *fonctions: CamelCase
 *Langue : Anglaise (Plus cohérent avec Qt et OpenCV)
 
-= Objectif Temporel =
+== Objectif Temporel ==
 Jeudi 23 ou Vendredi 24.
 
 *A noter que les noms fonctions ne sont pas les noms définitifs.
