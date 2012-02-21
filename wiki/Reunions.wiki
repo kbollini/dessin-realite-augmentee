@@ -12,13 +12,13 @@ Choix de coder séparément deux fonctions clés: "Binarisation" et "Localisatio
 
 Répartition des tâches:
 
- * Kevin : 
- ** Mise en place de l'header sur SVN, ajout des prototypes à celui-ci pour éviter les risques d'incohérences.
- ** Implémentation de la fonction Binarisation et mise en place de la fonction "TrackNaifCouleur".
+ Kevin : 
+ * Mise en place de l'header sur SVN, ajout des prototypes à celui-ci pour éviter les risques d'incohérences.
+ * Implémentation de la fonction Binarisation et mise en place de la fonction "TrackNaifCouleur".
 
- * Geoffrey :
- ** Implémentation de la fonction "Localisation", ajout a la fonction "trackNaifCouleur"
- ** Poursuite du Cahier des charges.
+ Geoffrey :
+ * Implémentation de la fonction "Localisation", ajout a la fonction "trackNaifCouleur"
+ * Poursuite du Cahier des charges.
 
 D'autres part :
  * Choix rapides sur la syntaxe:
