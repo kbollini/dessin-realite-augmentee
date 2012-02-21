@@ -21,10 +21,10 @@ Répartition des tâches:
  * Poursuite du Cahier des charges.
 
 D'autres part :
- * Choix rapides sur la syntaxe:
- ** Variables : camelCase
- ** Fonctions: CamelCase
- ** Langue : Anglaise (Plus cohérent avec Qt et OpenCV)
+ Choix rapides sur la syntaxe:
+ * Variables : camelCase
+ * Fonctions: CamelCase
+ * Langue : Anglaise (Plus cohérent avec Qt et OpenCV)
 
 == Objectif Temporel ==
 Jeudi 23 ou Vendredi 24.
