@@ -23,7 +23,7 @@ Répartition des tâches:
 D'autres part :
  Choix rapides sur la syntaxe:
  * Variables : camelCase
- * Fonctions: CamelCase
+ * Fonctions: camelCase
  * Langue : Anglaise (Plus cohérent avec Qt et OpenCV)
 
 == Objectif Temporel ==
